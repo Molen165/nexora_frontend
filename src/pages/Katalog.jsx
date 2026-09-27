@@ -94,7 +94,7 @@ export default function Katalog({ products, cartCount, onAddToCart }) {
                 Katalog Resmi
               </span>
               <h1 className="text-2xl sm:text-3xl font-extrabold text-white">
-                Jika Besok Kau Mencariku, Cari aku Di Rasa Sesalmu. ADIOS
+                Temukan Tumbler Sesuai Gaya & Kebutuhanmu
               </h1>
               <p className="text-xs text-slate-400 leading-relaxed">
                 Semua produk gratis engrave laser custom nama & bergaransi retur 100%.
